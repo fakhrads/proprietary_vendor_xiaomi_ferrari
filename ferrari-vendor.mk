@@ -549,8 +549,5 @@ PRODUCT_PACKAGES += \
     libloc_ds_api \
     libtime_genoff \
     libmm-abl \
-    TimeService \
-    shutdownlistener \
-    qcrilmsgtunnel \
     qcnvitems \
     qcrilhook
